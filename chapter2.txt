@@ -1,2 +1,1 @@
-It was not either cold or hot. But instead, it was soothingly warm.
-This was added to chapter2 after switching to the alien-plot branch.
+There was a man in Ireland who got bitten by a vampire.
